@@ -38,5 +38,16 @@ git commit -m "your custom message here"
 git push origin branch_name_here
 ```
 
+## check logs command
+
+```bash
+git log
+```
+
+## log in oneline
+
+```bash
+git log --oneline
+```
 
 
